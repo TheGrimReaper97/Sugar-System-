@@ -1,7 +1,7 @@
-# SugarySystem
+# SugarySystem 🐰 🖥️
 
 
-INTEGRANTES
+INTEGRANTES 👨‍💻
 
 Gerson Ernesto Lopez Chevez LC151886
 
