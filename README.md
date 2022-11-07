@@ -1,4 +1,4 @@
-# SugarySystem 🐰 🖥️
+# SugarSystem 🐰 🖥️
 
 
 INTEGRANTES 👨‍💻
